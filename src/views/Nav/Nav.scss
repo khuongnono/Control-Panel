@@ -1,0 +1,31 @@
+/* Add a black background color to the top navigation */
+@font-face {
+  src: url(../../assets/font/Font_ic/iCielBCCubano-Normal.otf);
+  font-family: 'Cubano';}
+
+.topnav {
+    background-color: #d9263c;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+  }
+
+  .topnav{
+      .school-name{
+        font-family: 'Cubano';
+
+        p{
+          margin: 0px;
+        }
+      }
+  }
+  
+  
